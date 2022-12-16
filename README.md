@@ -1,9 +1,9 @@
 <style>
-  main-highlight{
+  .yellow {
     color: yellow;
   }
 </style>
 
 # bookbot
 
-<main-highlight>Analyzes</main-highlight> a book's text to output statistical report
+<span class="yellow">Analyzes</span> a book's text to output statistical report
