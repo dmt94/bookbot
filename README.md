@@ -1,5 +1,4 @@
 # bookbot
 
-Analyzes a book's text to output statistical report
-
-books = 
+Analyzes a text file and output statistical report,
+such as amount of word or letter occurence
