@@ -1,4 +1,3 @@
-
 import os
 path = "books/"
 dir_list = os.listdir(path)
