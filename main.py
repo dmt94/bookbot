@@ -3,7 +3,6 @@ path = "books/"
 dir_list = os.listdir(path)
 
 def display_books(bookshelf):
-  organized_bookshelf = []
   print("__________________________________\nBooks available in our library:\n")
   for book in bookshelf:
     index = book.find(".txt")
